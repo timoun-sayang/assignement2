@@ -1,0 +1,6 @@
+
+title: "README"
+output: word_document
+date: "2026-03-23"
+
+Hello I am in **Korea** doing my university exchange at *INHA university*.
